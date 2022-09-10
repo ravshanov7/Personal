@@ -53,7 +53,7 @@
     this.classList.toggle('bi-x')
   })
    
-  /**
+  /** 
    * Scrool with ofset on links with a class name .scrollto
    */
   on('click', '#navbar .nav-link', function(e) {
